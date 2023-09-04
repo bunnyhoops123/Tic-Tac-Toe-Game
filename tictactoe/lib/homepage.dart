@@ -101,7 +101,7 @@ class _HomePageState extends State<HomePage> {
                 height: 20,
               ),
               Text(
-                '@SumukhVarma',
+                '@BunnyHoops',
                 style: textFont,
               )
             ],
